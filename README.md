@@ -25,7 +25,7 @@ Git • NGINX • Ubuntu • Cloudflare DNS & Tunnels • Figma • Miro
 - Personal website: **[minasaur.com](https://minasaur.com)**
 - Tech2Gether website: **[tech2gether.com](https://tech2gether.com)**
 - Continuing coursework and projects in software development
-- Capybara RPG (working title) – a small indie RPG currently in development
+- Capybara RPG (working title) - a small indie RPG currently in development
 
 ## 🌱 Outside of Programming
 
