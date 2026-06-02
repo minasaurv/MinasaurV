@@ -42,3 +42,4 @@ When I'm not coding, I enjoy:
 
 * Website: https://minasaur.com
 * LinkedIn: https://linkedin.com/in/minasaur
+* Discord: minasaurv
