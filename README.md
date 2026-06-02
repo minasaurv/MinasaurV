@@ -2,41 +2,43 @@
 
 Hi! I'm **Wilhelmina Vanderpool (Mina)**, a Computer Information Science student at **Ozarks Technical Community College (Ozarks Tech)**.
 
-I currently work in the college's **Web Services department**, where I help maintain and improve the institution's website, including contributing to a large-scale migration involving thousands of webpages. I'm also the **President of Tech2Gether**, Ozarks Tech's technology club, where I help organize events, support members, and lead development of the club's website.
+I enjoy building practical software and exploring new technologies, whether that's developing web applications, designing databases, or learning new frameworks and tools. Over the past few years, I've had the opportunity to work on a variety of real-world projects, including a major overhaul of the Ozarks Tech website, where I contributed to a large-scale WordPress migration, helped improve website accessibility to meet WCAG standards, and assisted with content audits and structural updates to improve usability and compliance.
 
-My interest in programming started long before college, driven by curiosity and a love for building things from scratch. Since then I've gained experience across several programming languages, frameworks, and tools, with a focus on building practical applications and learning new technologies.
+I'm also proud of my involvement with **Tech2Gether**, Ozarks Tech's technology club. As President, I helped organize technical workshops and community events, coordinated club operations and outreach efforts, and collaborated with fellow officers to plan and launch the club's first annual Hack2Gether hackathon. I also served as technical lead for the club's website, helping guide development and turn organizational goals into technical solutions.
+
+I maintain my personal website, which I built using React and Tailwind CSS and host on my home-lab Ubuntu server. Projects like these have given me experience not only with software development, but also with deployment, server administration, and troubleshooting.
 
 ## 🛠 Technologies & Tools
 
-**Languages**  
-JavaScript • C# • Python • Java • SQL • Lua  
+### Languages
 
-**Web Development**  
-React • ASP.NET • Vue.js • Express.js • Django • Tailwind CSS  
+JavaScript • C# • Python • Java • SQL • Lua
 
-**Databases**  
-T-SQL • MySQL • MongoDB  
+### Web Development
 
-**Tools & Platforms**  
-Git • NGINX • Ubuntu • Cloudflare DNS & Tunnels • Figma • Miro  
+React • ASP.NET • Vue.js • Express.js • Django • Tailwind CSS
+
+### Databases
+
+T-SQL • MySQL • MongoDB
+
+### Tools & Platforms
+
+Git • NGINX • Ubuntu • Cloudflare DNS & Tunnels • Figma • Miro
 
 ## 🚧 Current Projects
 
-- Personal website: **[minasaur.com](https://minasaur.com)**
-- Tech2Gether website: **[tech2gether.com](https://tech2gether.com)**
-- Continuing coursework and projects in software development
-- Capybara RPG (working title) - a small indie RPG currently in development
+* Personal website: **[minasaur.com](https://minasaur.com)**
 
 ## 🌱 Outside of Programming
 
 When I'm not coding, I enjoy:
-- Studying **German**
-- Creating **pixel art**
-- Practicing **skateboarding**
-- Playing **video games**
-- Collecting **Pokémon cards**
+
+* Creating pixel art
+* Playing video games
+* Skateboarding
 
 ## 📫 Connect with Me!
 
-- Website: https://minasaur.com  
-- LinkedIn: https://linkedin.com/in/minasaur
+* Website: https://minasaur.com
+* LinkedIn: https://linkedin.com/in/minasaur
