@@ -39,7 +39,6 @@ When I'm not coding, I enjoy:
 * Skateboarding
 
 ## 📫 Connect with Me!
-
-* Website: https://minasaur.com
-* LinkedIn: https://linkedin.com/in/minasaur
-* Discord: minasaurv
+* LinkedIn: [/in/minasaur](https://linkedin.com/in/minasaur)
+* Discord: [minasaurv](http://discord.com/users/1109635837588680764)
+* Email: [mina@minasaur.com](mailto:mina@minasaur.com)
