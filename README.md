@@ -1,12 +1,29 @@
 # Hello, GitHub!
 
-Hi! I'm **Wilhelmina Vanderpool (Mina)**, a Computer Information Science student at **Ozarks Technical Community College (Ozarks Tech)**.
+## Who I am
 
-I enjoy building practical software and exploring new technologies, whether that's developing web applications, designing databases, or learning new frameworks and tools. Over the past few years, I've had the opportunity to work on a variety of real-world projects, including a major overhaul of the Ozarks Tech website, where I contributed to a large-scale WordPress migration, helped improve website accessibility to meet WCAG standards, and assisted with content audits and structural updates to improve usability and compliance.
+Hi! I'm Mina, a Computer Science student at Ozarks Technical Community College and a Full Stack Developer at Cold Brew Code. I'm passionate about building software that is intuitive, accessible, and enjoyable to use.
 
-I'm also proud of my involvement with **Tech2Gether**, Ozarks Tech's technology club. As President, I helped organize technical workshops and community events, coordinated club operations and outreach efforts, and collaborated with fellow officers to plan and launch the club's first annual Hack2Gether hackathon. I also served as technical lead for the club's website, helping guide development and turn organizational goals into technical solutions.
+## 🚧 Current Projects
 
-I maintain my personal website, which I built using React and Tailwind CSS and host on my home-lab Ubuntu server. Projects like these have given me experience not only with software development, but also with deployment, server administration, and troubleshooting.
+* Personal website: **[minasaur.com](https://minasaur.com)**
+* Building software solutions @ **[Cold Brew Code](https://coldbrewcode.dev)** 
+
+## What I build
+
+I design and develop web applications, databases, and software tools with a focus on usability, accessibility, and maintainability. My experience includes working with C#, Python, JavaScript, SQL, React, ASP.NET, Django, and modern web development practices. I enjoy solving problems, learning new technologies, and turning ideas into practical software solutions.
+
+## Professional Experience
+
+As a Full Stack Developer at Cold Brew Code, I help design and develop web applications and software products as part of a small development team. My work spans both development and UI/UX design, allowing me to contribute throughout the entire product development process.
+
+Previously, I worked in Web Services at Ozarks Tech, where I contributed to a large-scale WordPress migration involving more than 8,000 webpages. I also supported accessibility improvements, content audits, and structural updates to improve usability and compliance with WCAG standards.
+
+## Community & Leadership
+
+I'm an active member of the Springfield technology community. I regularly attend Springfield Devs meetups to connect with other developers, learn about new technologies, and share ideas. I'm also an active member of SGFSEC, where I continue expanding my knowledge of cybersecurity.
+
+I previously served as President of Tech2Gether, where I organized workshops, coordinated outreach efforts, and helped launch the organization's first Hack2Gether hackathon. As Website Project Lead, I led development efforts for the club's website and worked closely with student leaders to support the organization's goals through technology.
 
 ## 🛠 Technologies & Tools
 
@@ -25,18 +42,6 @@ T-SQL • MySQL • MongoDB
 ### Tools & Platforms
 
 Git • NGINX • Ubuntu • Cloudflare DNS & Tunnels • Figma • Miro
-
-## 🚧 Current Projects
-
-* Personal website: **[minasaur.com](https://minasaur.com)**
-
-## 🌱 Outside of Programming
-
-When I'm not coding, I enjoy:
-
-* Creating pixel art
-* Playing video games
-* Skateboarding
 
 ## 📫 Connect with Me!
 * LinkedIn: [/in/minasaur](https://linkedin.com/in/minasaur)
