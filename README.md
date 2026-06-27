@@ -1,7 +1,5 @@
 # Hello, GitHub!
 
-## Who I am
-
 Hi! I'm Mina, a Computer Science student at Ozarks Technical Community College and a Full Stack Developer at Cold Brew Code. I'm passionate about building software that is intuitive, accessible, and enjoyable to use.
 
 ## 🚧 Current Projects
